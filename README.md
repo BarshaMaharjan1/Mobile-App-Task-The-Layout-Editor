@@ -10,5 +10,8 @@
 <img src="tablet.png" width="150">
 
 
+<img src="tablegif.gif" width="150">
+
+
 <img src="tablethorizontalgif.gif" width="150">
 
